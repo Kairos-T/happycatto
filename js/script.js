@@ -11,7 +11,6 @@ function checkPassword() {
   if (hashedInput === expectedHash) {
     passwordMessage.innerHTML = "Password is correct!";
     secretComponent.style.display = "block";
-
   } else {
     passwordMessage.innerHTML = "Incorrect password!";
     secretComponent.style.display = "none";

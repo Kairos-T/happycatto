@@ -8,20 +8,19 @@ body {
   flex-direction: column;
 
   background-color: #212529 !important;
-
 }
 
 .container {
-    text-align: center;
+  text-align: center;
 }
 
 #passwordInput {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 100%;
-    box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  box-sizing: border-box;
 }
